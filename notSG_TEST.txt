@@ -1,0 +1,7 @@
+com.innersloth.spacemafia
+com.nianticlabs.pokemongo
+com.supercell.clashroyale
+com.supercell.brawlstars
+com.youdagames.monopolypoker
+com.beautysalon.makeupartist
+spa.games

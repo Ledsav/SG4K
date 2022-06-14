@@ -1,0 +1,11 @@
+com.SeriousGamesInteractive.FactFinders
+net.seriousgames.planninggame
+air.com.succubus.simulang
+com.w4t.virtualcities
+com.virtualcampus.loel
+com.oie.rinderpest2
+com.wewanttoknow.DragonBox2
+com.wewanttoknow.DragonBoxPlus
+com.grendelgames.countmein
+com.lego.education.spike
+baby.games.world.of.numbers
